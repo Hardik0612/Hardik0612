@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hardik !!</h1>
-<h3 align="center">Sure, here's an enhanced version: --- A passionate C++ coder and MERN stack developer, currently pursuing a B.Tech in Computer Science and Engineering from Jaypee Institute of Information Technology. Driven by a love for technology and innovation, I am committed to creating impactful software solutions and continuously expanding my skills in the ever-evolving tech landscape.</h3>
+<h3 align="center">A passionate C++ coder and MERN stack developer, currently pursuing a B.Tech in Computer Science and Engineering from Jaypee Institute of Information Technology. Driven by a love for technology and innovation, I am committed to creating impactful software solutions and continuously expanding my skills in the ever-evolving tech landscape.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardik0612&label=Profile%20views&color=0e75b6&style=flat" alt="hardik0612" /> </p>
 
